@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+// GCW: hello_world.c
+
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+  printf("Hello World\n");
+  return 0;
+}
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJXwELdAAoJEHqHkH6SjdE10o0P/0bD5JvfpqOa9y0MFUQJl7IX
+B07zNEga696msppYQ3Ns4O5R8KA3W8aroF77EyoFwKynHEWviZQIPindxcco9jij
+uF/mgNar+IzTj1k6Ayeksdj5ld5s0CoTErt7CFXJUMesIlmNCtQ7n4uB/JFiuMGm
+OHGc56DTs4kEPuZQwSeXFoJ+yrd7nCuCD2x1Ho07+KbWUyTySrWBTXOQK6FHQASD
+cWQTjj5Si4ictj3sWU6hMD0EHc1KyVwjTzpjh59uLjUXj612ozYTcbCWyphEgY9n
+VTutYt7REwD4tkcLWQIkp+Xl0HlHGJw1hlEQd2B4pyTrR9baaDieOR4z7SNgQKdz
+upfIiklTRAhljc2Tf9Va0iwb527XHRMEdcLOxaka7Jd2xojtGAYhiazdK6fOjxzJ
+kumLWRFsXf4B3N/HXpzwDj7OidVIU1BkYqMITUb0oJsWaF7L+LfK6iLF7GAlqQ1r
+I4FNC87rmcVjkSC3qRLvLiBJ0xXU4YkxMqIQ3oKutELX2Oy3r2wvCIGkPM5zDBJE
+HwnUKf3s54jqw8HEXg4uQmJiiULxe46RU2yPGy//kfNFSbsxRrKy0fOMOlWbaLPk
+/2pGsd6wlIiNkbAGlB9nTLQP9CqcBDqKr2bmNylQ1gc1Wh0I05Yfwd/vwxB7MpTt
+oIyi8JsYUxCDV2t+CfQr
+=Ju0R
+-----END PGP SIGNATURE-----
